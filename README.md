@@ -1,2 +1,1 @@
- Olá este projeto inclui todo conteudo de código visto na Faculdade ADS-FATEC
- isso é uma alteração 
+ Olá, aqui se encontra alguns códigos realizados no 4º Semestre da minha faculdade de ADS.
